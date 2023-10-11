@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UiProject</string>
+    <string name="hint_edit_text_name">نام خود را وارد کنید</string>
 </resources>
