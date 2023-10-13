@@ -20,5 +20,4 @@
         android:text="Show Message"
         android:layout_height="wrap_content"/>
 
-
 </LinearLayout>
