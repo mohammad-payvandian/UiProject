@@ -20,4 +20,10 @@
         android:text="Show Message"
         android:layout_height="wrap_content"/>
 
+    <EditText
+        android:layout_width="match_parent"
+        android:text="hello"
+        android:hint="world"
+        android:layout_height="wrap_content"/>
+
 </LinearLayout>
